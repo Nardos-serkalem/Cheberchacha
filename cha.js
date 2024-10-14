@@ -1,7 +1,6 @@
 const music = new Audio('Mikiya.mp3');
 
 // create Array 
-
 const songs = [
     {
         id:'1',
